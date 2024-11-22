@@ -268,14 +268,3 @@ public class ImageFilter {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
